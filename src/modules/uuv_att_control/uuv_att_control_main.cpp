@@ -78,8 +78,8 @@
 #include <systemlib/circuit_breaker.h>
 // internal libraries
 #include <lib/mathlib/mathlib.h>
-#include <lib/geo/geo.h>
-#include <lib/tailsitter_recovery/tailsitter_recovery.h>
+//#include <lib/geo/geo.h>
+//#include <lib/tailsitter_recovery/tailsitter_recovery.h>
 
 
 // UUV Attitude Controller

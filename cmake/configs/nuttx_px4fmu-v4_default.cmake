@@ -24,6 +24,7 @@ set(config_module_list
 	drivers/irlock
 	drivers/led
 	drivers/mkblctrl
+	drivers/ms5803
 	drivers/oreoled
 	drivers/pca9685
 	drivers/pwm_input
